@@ -1,6 +1,5 @@
 //Requires Express
 const express = require("express");
-const { response } = require("express");
 
 //Create Express server
 let app = express();
